@@ -2,8 +2,10 @@
   
   # ❇️ chaentopia <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaentopia&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaentopia&layout=compact&theme=omni)
-  ###### actually the most used langs is swift..😅
+  ![](./profile-3d-contrib/profile-season-animate.svg)
+  
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaentopia&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaentopia&layout=compact&theme=omni)
+  ###### actually the most used langs is swift..😅 -->
 
   <br>
   
