@@ -7,6 +7,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaentopia&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaentopia&layout=compact&theme=omni)
   ###### actually the most used langs is swift..😅
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaentopia&count_bg=%23BDFDFF&title_bg=%23FFC9C9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   <br>
   
   #### 📇 SNS & Portfolio 📇 <br> <a href="https://www.instagram.com/chaentopia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@chaentopia" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
