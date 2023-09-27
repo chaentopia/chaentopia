@@ -5,7 +5,7 @@
 <!--   ![](./profile-3d-contrib/profile-season-animate.svg) -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaentopia&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaentopia&layout=compact&theme=omni)
-  ###### actually the most used langs is swift..😅
+  ###### (actually the most used langs is swift..😅)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaentopia&count_bg=%23BDFDFF&title_bg=%23FFC9C9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
