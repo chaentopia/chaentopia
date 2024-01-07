@@ -15,10 +15,9 @@
    2023.09 ~  🍏 대학생 연합 IT 창업 동아리 SOPT 33기 iOS 파트원  <br> 
    2023.03 ~ 2023.07 🍏 대학생 연합 IT 창업 동아리 SOPT 32기 iOS 파트원  <br> 
    2022.09 ~ 2023.01 🍏 대학생 연합 IT 창업 동아리 SOPT 31기 iOS 파트원  <br> 
- <br> 
- 2023.01 🔶 식습관 관리 서비스 **KeepGoEat** iOS 개발자 <br>
- 
- 2023.06 💛 익명쪽지 네트워킹 서비스 [**YELL:O**](https://apps.apple.com/kr/app/yell-o-%EB%84%88%EC%9D%98-%EC%97%90-%EC%84%A4%EB%A0%9C%EC%96%B4/id6451451050?l=en-GB) iOS 리드 개발자 <br>
+   <br> 
+   2023.01 🔶 식습관 관리 서비스 **KeepGoEat** iOS 개발자 <br>
+   2023.06 💛 익명쪽지 네트워킹 서비스 [**YELL:O**](https://apps.apple.com/kr/app/yell-o-%EB%84%88%EC%9D%98-%EC%97%90-%EC%84%A4%EB%A0%9C%EC%96%B4/id6451451050?l=en-GB) iOS 리드 개발자 <br>
   <br>
    
    
