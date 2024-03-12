@@ -19,10 +19,9 @@
    <br> 
    |날짜|서비스|이미지|
    |:---:|:---:|:---:|
-      | 2024.01| ✳️ 지도 기반 모임 서비스 [**PINGLE**](https://apps.apple.com/kr/app/pingle-%ED%95%91%EA%B8%80/id6475423894?l=en-GB) iOS 리드 개발자  |<img src="https://github.com/chaentopia/chaentopia/assets/109775321/fdb8f172-bbde-4545-b45b-b3607c24c7cb" width="100" height="100">|
-
+   | 2024.01| ✳️ 지도 기반 모임 서비스 [**PINGLE**](https://apps.apple.com/kr/app/pingle-%ED%95%91%EA%B8%80/id6475423894?l=en-GB) iOS 리드 개발자  |<img src="https://github.com/chaentopia/chaentopia/assets/109775321/fdb8f172-bbde-4545-b45b-b3607c24c7cb" width="100" height="100">|
    | 2023.06 | 💛 익명쪽지 네트워킹 서비스 [**YELL:O**](https://apps.apple.com/kr/app/yell-o-%EB%84%88%EC%9D%98-%EC%97%90-%EC%84%A4%EB%A0%9C%EC%96%B4/id6451451050?l=en-GB) iOS 리드 개발자 | <img src="https://github.com/chaentopia/chaentopia/assets/109775321/be9a6b0c-674a-477d-ac0c-e60bd885ccd8" width="100" height="100">  | 
-      | 2023.01 | 🔶 식습관 관리 서비스 **KeepGoEat** iOS 개발자 |<img src="https://github.com/chaentopia/chaentopia/assets/109775321/6579af79-6518-4a33-967a-ed03ee815b3d" width="100" height="100"> |
+   | 2023.01 | 🔶 식습관 관리 서비스 **KeepGoEat** iOS 개발자 |<img src="https://github.com/chaentopia/chaentopia/assets/109775321/6579af79-6518-4a33-967a-ed03ee815b3d" width="100" height="100"> |
 
 
   <br>
